@@ -15,6 +15,8 @@ ruby ./Notepad--.rb
 ```
 The program should now be opened.
 
+**NOTE: If you set the installed Ruby Interpreter to the default program for opening .rb files, you can also just double click on the file.**
+
 ## How to Use Notepad--
 Upon running the program successfully, the user will be greeted with an ASCII title screen and instructions following the title. Typing ```START``` (case sensitive) will allow the user to start creating/writing their file in the program.
 
