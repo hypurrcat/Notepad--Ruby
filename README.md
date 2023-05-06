@@ -11,7 +11,7 @@ If you have successfully installed Ruby, running Notepad-- Ruby should be easy. 
 
 Once the terminal is accessing the same directory as the Notepad--.rb file, type/paste the following command to run the program:
 ```
-ruby Notepad--.rb
+ruby ./Notepad--.rb
 ```
 The program should now be opened.
 
