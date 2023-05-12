@@ -1,4 +1,4 @@
-# Notepad---Ruby
+# Notepad-- Ruby
 A rudimentary "text editor" created entirely as a joke. Programmed in Ruby.
 
 This project was created to act as a rudimentary text editor in any command line/terminal capable of running Ruby scripts.
